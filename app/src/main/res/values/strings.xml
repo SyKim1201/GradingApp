@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">BrianAssignment2</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Grading App</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_entry">Grade Entry</string>
+    <string name="menu_view">View Grades</string>
+    <string name="menu_search">Search</string>
+
+    <string name="f_name">First Name</string>
+    <string name="l_name">Last Name</string>
+    <string name="course">Course</string>
+    <string name="credits">Credits</string>
+    <string name="marks">Marks</string>
+</resources>
